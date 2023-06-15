@@ -1,4 +1,4 @@
-# Many-Time-Pad
+# Many-Time-Pad-Attack
 
 In Many Time Pad, one key is used to encrypt multiple messages which makes it vulnerable and easy for hackers to crack it.
 So, developed a python program to decrypt a ciphertext that was encrypted using many time pad. 
